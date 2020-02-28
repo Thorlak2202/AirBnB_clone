@@ -1,0 +1,17 @@
+header
+    {
+        display:flex;
+        background-color: white;
+        height:70px;
+        width:100%;
+        border-bottom: 1px solid #CCCCCC;
+        align-items: center;
+    }
+
+.logo
+    {
+        background-image: url(../images/logo.png);
+        margin-left: 20px;
+        padding: 30px;
+        width: 85px;
+    }
