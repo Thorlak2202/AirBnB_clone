@@ -40,6 +40,7 @@ button:hover
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 600;
+    margin-left: 3%;
 }
 
 .locations
@@ -87,12 +88,12 @@ h4
 .amenities .popover
 {
     padding: 20px 0;
-    margin-top: 1%;
+    margin-top: 0%;
 }
 
 .locations .popover
 {
-    margin-top: 1%;
+    margin-top: 0%;
 }
 
 .popover ul
@@ -103,7 +104,7 @@ h4
 
 .locations li
 {
-    margin-left: -5%;
+    margin-left: -4%;
 }
 
 .amenities li
